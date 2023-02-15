@@ -1,0 +1,27 @@
+p {
+    color: brown;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2rem;  
+    margin-left: 5rem;
+    margin-right: 5rem;
+    padding-bottom: 3rem;
+}
+
+
+#content {
+    background-color: rgb(207, 207, 207);
+}
+
+#navbar-main {
+    background-color: rgb(207, 207, 207)
+}
+
+a {
+    color: black;
+}
+
+
+::selection {
+    background-color: yellow;
+}
